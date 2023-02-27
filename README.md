@@ -14,7 +14,6 @@ Análise e Desenvolvimento de Sistemas - PIM
   <a href="#-Tecnologia">Tecnologia</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-Desenvolvedores">Desenvolvedores</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-licença">Licença</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-Sobre-mim">Sobre mim</a>
 </p>
 
 <p align="center">

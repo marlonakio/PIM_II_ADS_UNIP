@@ -25,6 +25,7 @@ Análise e Desenvolvimento de Sistemas - PIM
 
 <p align="justify">
 Os estudantes que cursam alguns cursos de Tecnologia de curta duração da Universidade Paulista (UNIP) são solicitados a elaborar um Projeto Integrado Multidisciplinar (PIM), ao longo do semestres de aula. Esses trabalhos fazem parte da grade curricular dos cursos e, portanto, são de caráter obrigatório.
+
 No PIM devemos realizar um trabalho que reuni todas as matérias semestrais, no segundo semestre de 2022 foi solicitado o seguinte tema:
 
 - Desenvolver um programa que permita realizar o controle de todos os
